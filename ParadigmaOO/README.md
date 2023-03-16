@@ -49,7 +49,7 @@ Existen tres niveles de acceso para el encapsulamiento, los cuales son:
 ![main](https://user-images.githubusercontent.com/124094435/225529788-fb66e9ad-0529-4938-b194-704d5c47663e.png)
 
 
-** _ _Ejemplo de código CON ENCAPSULAMIENTO_ _**
+**_Ejemplo de código CON ENCAPSULAMIENTO_**
 
 ![encapsulamientojava](https://user-images.githubusercontent.com/124094435/225529964-5beeabb9-0437-49c0-993d-5f24c3db863f.png)
 ![main2](https://user-images.githubusercontent.com/124094435/225529976-a0d71e2c-af57-437d-80c0-cb98d9b57a51.png)
