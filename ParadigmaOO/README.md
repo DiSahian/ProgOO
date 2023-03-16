@@ -33,6 +33,7 @@ La abstracción es una técnica clave en la programación orientada a objetos qu
 
 ## Encapsulamiento
 
+![maxresdefault](https://user-images.githubusercontent.com/124094435/225528162-d3672304-9d4e-4f38-baf4-e7577a9628cb.jpg)
 El encapsulamiento es un concepto clave en la programación orientada a objetos que se refiere a la capacidad de una clase de ocultar su complejidad interna y proteger sus datos y comportamientos de ser accedidos o modificados por código externo no autorizado
 
 Existen tres niveles de acceso para el encapsulamiento, los cuales son:
