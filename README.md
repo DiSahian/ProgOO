@@ -1,2 +1,32 @@
-# ProgOO
-Tarea Unidad 1
+# TECNOLÓGICO NACIONAL DE MÉXICO 
+# INSTITUTO TECNOLÓGICO DE TIJUANA 
+
+# SUBDIRECCIÓN ACADÉMICA 
+# DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN 
+
+
+
+# SEMESTRE: FEBRERO - JUNIO 2023
+
+
+# CARRERA:  
+Ing. Sistemas computacionales 
+
+
+# MATERIA: 
+POO
+ 
+
+# TÍTULO ACTIVIDAD: 
+U1. Tarea 1
+
+
+# UNIDAD I
+
+
+# NOMBRE Y NÚMERO DE CONTROL DEL ALUMNO: 
+Diana Sahian Quiñonez Yañez - 22211637
+
+
+# NOMBRE DEL MAESTRO (A): 
+Mariana Huizar Tejada	
