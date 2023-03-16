@@ -13,6 +13,8 @@ Hay varios paradigmas comunes en los lenguajes de programación, que incluyen:
     2.Programación orientada a objetos: se enfoca en la creación de objetos que tienen propiedades y métodos para interactuar entre sí.
     3.Programación funcional: se basa en funciones puras que no tienen efectos secundarios y se utilizan para resolver problemas mediante la composición y la aplicación de funciones.
     4.Programación lógica: se utiliza para resolver problemas mediante la definición de hechos y reglas, y la creación de consultas para deducir nuevas conclusiones.
+    
+    
 ## Programación Orientada a Objetos
 La programación orientada a objetos (POO) es un paradigma de programación que se basa en el concepto de objetos, que son entidades que combinan datos y comportamiento en una sola unidad. Cada objeto es una instancia de una clase, que define las propiedades y métodos que los objetos pueden tener.
 
@@ -22,10 +24,13 @@ El primer lenguaje de programación orientado a objetos fue Simula, desarrollado
 
 Dahl y Nygaard propusieron la idea de la programación orientada a objetos en un artículo de 1967 titulado "Simula: An Algol-Based Simulation Language". En este artículo, describieron cómo la programación orientada a objetos podía ser utilizada para modelar sistemas en los que las entidades podían ser vistas como objetos y cómo podían interactuar entre sí.
 
+
 ## Abstracción
 La abstracción es lo que nos permite ir de lo complejo a algo simple, por ejemplo nosotros como estudiantes de POO debemos aprender a identificar las características de un objeto para poder crear sus clases y definir sus atributos, en el ejemplo que se vio de la bicicleta color, marca, cambio de velocidades y velocidad actual.
 
 La abstracción es una técnica clave en la programación orientada a objetos que ayuda a simplificar entidades complejas y a separar la funcionalidad principal del detalle de implementación.
+
+
 ## Encapsulamiento
 
 El encapsulamiento es un concepto clave en la programación orientada a objetos que se refiere a la capacidad de una clase de ocultar su complejidad interna y proteger sus datos y comportamientos de ser accedidos o modificados por código externo no autorizado
@@ -38,10 +43,14 @@ Existen tres niveles de acceso para el encapsulamiento, los cuales son:
     Privado (Private): En este nivel se puede declarar miembros accesibles sólo para la propia clase.
 
 Entre sus ventajas tenemos a la ocultación de datos, flexibilidad, reutilización y código más fácil de probar.Al no existir un encapsulamiento los atributos pueden tomar valores inconsistentes, lo cual seria fatal para cualquier sistema. El encapsulamiento nos ayuda a proteger la integridad de los datos y nos asegura que los atributos de nuestra clase solo podran ser accedidos a traves de los metodos definidos en dicha clase. 
+
+
 ## Herencia
 La herencia se refiere a la capacidad de una clase de heredar los atributos y métodos de otra clase (clase padre) para evitar la redundancia de código y permitir la reutilización de código.
 
 En la herencia, la clase hija extiende o especializa la clase padre, lo que significa que la clase hija puede añadir nuevos atributos y métodos, o modificar o anular los existentes.
+
+
 ## UML
 El Lenguaje de Modelado Unificado (UML, por sus siglas en inglés) es un lenguaje gráfico de modelado de software que fue desarrollado en la década de 1990 por un grupo de expertos en software liderado por Grady Booch, James Rumbaugh e Ivar Jacobson.
 
