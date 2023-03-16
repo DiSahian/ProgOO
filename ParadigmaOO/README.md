@@ -62,6 +62,8 @@ La herencia se refiere a la capacidad de una clase de heredar los atributos y m�
 
 En la herencia, la clase hija extiende o especializa la clase padre, lo que significa que la clase hija puede añadir nuevos atributos y métodos, o modificar o anular los existentes.
 
+![La-Herencia-Ocio-Las-Palmas-Programacion-](https://user-images.githubusercontent.com/124094435/225530785-1d2ef98c-14da-4fc1-868d-a9fb4f80b14b.png)
+
 
 ## UML
 El Lenguaje de Modelado Unificado (UML, por sus siglas en inglés) es un lenguaje gráfico de modelado de software que fue desarrollado en la década de 1990 por un grupo de expertos en software liderado por Grady Booch, James Rumbaugh e Ivar Jacobson.
