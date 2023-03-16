@@ -43,13 +43,13 @@ Existen tres niveles de acceso para el encapsulamiento, los cuales son:
     Protegido (Protected): Podemos decir que estás no son de acceso público, solamente son accesibles dentro de su clase y por subclases.
     Privado (Private): En este nivel se puede declarar miembros accesibles sólo para la propia clase.
 
-** _ _Ejemplo de código SIN ENCAPSULAMIENTO**
+** _ _Ejemplo de código SIN ENCAPSULAMIENTO _ _**
 
 ![classjava](https://user-images.githubusercontent.com/124094435/225528518-26ab9134-ff6b-43bd-ba52-9a3bd59c8b86.png)
 ![main](https://user-images.githubusercontent.com/124094435/225529788-fb66e9ad-0529-4938-b194-704d5c47663e.png)
 
 
-** _ _Ejemplo de código CON ENCAPSULAMIENTO**
+** _ _Ejemplo de código CON ENCAPSULAMIENTO_ _**
 
 ![encapsulamientojava](https://user-images.githubusercontent.com/124094435/225529964-5beeabb9-0437-49c0-993d-5f24c3db863f.png)
 ![main2](https://user-images.githubusercontent.com/124094435/225529976-a0d71e2c-af57-437d-80c0-cb98d9b57a51.png)
